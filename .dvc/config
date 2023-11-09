@@ -1,0 +1,4 @@
+[core]
+    remote = https://github.com/xhdzl6280/dvc_practice.git
+['remote "https://github.com/xhdzl6280/dvc_practice.git"']
+    url = C:\Users\daram\dvc_prac\Storage
